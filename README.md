@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Chanakya 👋
 
-<!--
-**Chandachanakya/chandachanakya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a passionate BTech Computer Science student, Data Science enthusiast and developer with a keen interest in machine learning, web development and datascience. I love building projects that solve real-world problems and continuously learning new technologies.
 
-Here are some ideas to get you started:
+## Skills
+- **Programming Languages:** Python, Java, C#
+- **Frameworks & Tools:** Flask, Streamlit, React, Git
+- **Databases:** MySQL
+- **Other:** Data Science, Machine Learning, Deep Learning, Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Plant Doc** — Plant Doc is an AI-powered plant disease detection system that uses deep learning (ResNet-18) to accurately identify diseases from images of plant leaves. [https://github.com/Chandachanakya/plant-Doc]
+
+
+## Connect with Me
+- 📫 Email: chandachanakya@gmail.com
+- LinkedIn: (www.linkedin.com/in/chanda-chanakya-158965291)
+
+---
+
+*“Strive to build things that make a difference.”*
+
