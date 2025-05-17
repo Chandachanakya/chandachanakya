@@ -10,12 +10,12 @@ I am a passionate BTech Computer Science student, Data Science enthusiast and de
 - **Other:** Data Science, Machine Learning, Deep Learning, Web Development
 
 ## Projects
-- **Plant Doc** — Plant Doc is an AI-powered plant disease detection system that uses deep learning (ResNet-18) to accurately identify diseases from images of plant leaves. [https://github.com/Chandachanakya/plant-Doc]
+- **Plant Doc** — Plant Doc is an AI-powered plant disease detection system that uses deep learning (ResNet-18) to accurately identify diseases from images of plant leaves. [repo link](https://github.com/Chandachanakya/plant-Doc)
 
 
 ## Connect with Me
 - 📫 Email: chandachanakya@gmail.com
-- LinkedIn: (www.linkedin.com/in/chanda-chanakya-158965291)
+- LinkedIn: [Chanda Chanakya](www.linkedin.com/in/chanda-chanakya-158965291)
 
 ---
 
